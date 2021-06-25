@@ -1,4 +1,6 @@
-### Hi there 👋
+## Farai Marumbwa
+Iam a graducate student from the university of [pretoria](https://www.up.ac.za/centre-for-environmental-studies/).Here is the link to my profile on [research gate](https://www.researchgate.net/profile/Farai-Marumbwa)
+
 
 <!--
 **faraigit/faraigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
