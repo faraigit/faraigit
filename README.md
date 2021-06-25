@@ -6,6 +6,9 @@ I recently graduated from the university of [university of pretoria](https://www
 -MA Environmental Policy and Planning
 -BA Hons Geography
 
+![alt text](https://www.up.ac.za/themes/up2.0/images/horizontal-logo-bg.png "Logo Title Text 1")
+
+
 
 <!--
 **faraigit/faraigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
